@@ -10,12 +10,11 @@ Welcome to my profile!
 
 **Software Engineer @ SAP Concur | MTech Scholar @ BITS Pilani**
 
-I build enterprise-scale solutions at the intersection of **CS, Math, and Electronics**. 
-Focused on crafting clean, efficient code across the full stack—from **Java/Spring Boot** to **React** and **ML**.
+I build scalable systems across the stack — from Java/Spring Boot to React and applied ML/AI.
 
-- 🔭 **Currently:** Scaling cloud-native apps and exploring ML on AWS.
-- 📚 **Learning:** Deep diving into Software Engineering research.
-- ⚡ **Interests:** Coding, reading, and sports.
+- **Currently:** Scaling cloud-native apps and exploring ML on AWS.
+- **Learning:** Modern ML/AI concepts — MCP, AI Agents, LLM integrations, and intelligent system design
+- **Interests:** Coding, reading, and sports.
 
 ---
-*Building better systems, one commit at a time.*
+*Always learning. Always building. Always improving.*
