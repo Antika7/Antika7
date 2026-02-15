@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Antika7/Antika7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!
 
-Here are some ideas to get you started:
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Antika7.Antika7)](https://github.com/Antika7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+**Software Engineer @ SAP Concur | MTech Scholar @ BITS Pilani**
+
+I build enterprise-scale solutions at the intersection of **CS, Math, and Electronics**. 
+Focused on crafting clean, efficient code across the full stack—from **Java/Spring Boot** to **React** and **ML**.
+
+- 🔭 **Currently:** Scaling cloud-native apps and exploring ML on AWS.
+- 📚 **Learning:** Deep diving into Software Engineering research.
+- ⚡ **Interests:** Coding, reading, and sports.
+
+---
+*Building better systems, one commit at a time.*
