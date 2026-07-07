@@ -8,7 +8,7 @@ Welcome to my profile!
 
 ## About Me
 
-**Software Engineer @ SAP Concur | MTech Scholar @ BITS Pilani**
+**Software Engineer @ SAP Concur | MTech @ BITS Pilani**
 
 I build scalable systems across the stack — from Java/Spring Boot to React and applied ML/AI.
 
